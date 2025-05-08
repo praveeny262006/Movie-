@@ -1,4 +1,4 @@
-# Project: Movie Recommender Matchmaking system 
+# Project: Movie recommendations ai Matchmaking system 
 
 <img src="demo/6.jpeg" alt="workflow" width="70%">
 
